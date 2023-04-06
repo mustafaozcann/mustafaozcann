@@ -55,4 +55,4 @@ I am a Mobile Application Developer <img src="https://media.giphy.com/media/WUlp
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mustafaozcann&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaozcann&hide=ruby,html,csharp)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaozcann&hide=ruby,html)](https://github.com/anuraghazra/github-readme-stats)
