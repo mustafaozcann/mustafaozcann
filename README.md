@@ -14,7 +14,7 @@
     <img src="https://komarev.com/ghpvc/?username=mustafaozcann&style=flat-square&color=blue" align="center">
     <h1>
     Hello everyone !
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <img src="https://i.imgur.com/1irEscM.gif" width="30px"/>
     </h1>
 
 </div>
