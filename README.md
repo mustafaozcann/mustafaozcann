@@ -14,14 +14,14 @@
     <img src="https://komarev.com/ghpvc/?username=mustafaozcann&style=flat-square&color=blue" align="center">
     <h1>
     Hello everyone !
-    <img src="https://i.imgur.com/1irEscM.gif" width="30px"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
 
 </div>
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://i.imgur.com/1irEscM.gif" width="600" height="300"/>
 </div>
 
 ---
