@@ -27,7 +27,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Mobile Application Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
+I’m currently working at BtcTurk <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: I’m a Software Engineering student and building mobile applications individually.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
