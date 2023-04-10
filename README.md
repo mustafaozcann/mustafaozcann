@@ -30,7 +30,6 @@
 I’m currently working at BtcTurk <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: I’m a Software Engineering student and building mobile applications individually.
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - :cyclone: My Google Play Developer Account [![Google Badge](https://img.shields.io/badge/PlayConsole-go-success)](https://play.google.com/store/apps/dev?id=9091730122501830493&gl=TR)
 
 
